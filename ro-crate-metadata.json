@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-02-03T19:51:53.282363",
+            "datePublished": "2025-02-14T16:25:28.636160",
             "hasPart": [
                 {
                     "@id": "Assembly-Hifi-only-VGP3.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#61f9d5b0-c515-4fe6-843f-63f1cd378766"
+                    "@id": "#aa9f3ac8-be65-49fa-9f54-5b777ea1a278"
                 },
                 {
                     "@id": "https://vertebrategenomeproject.org"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Assembly-Hifi-only-VGP3",
-            "version": "0.2.3"
+            "version": "0.2.4"
         },
         {
             "@id": "#galaxy",
@@ -90,7 +90,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#61f9d5b0-c515-4fe6-843f-63f1cd378766",
+            "@id": "#aa9f3ac8-be65-49fa-9f54-5b777ea1a278",
             "@type": "Organization",
             "name": "Galaxy"
         },
